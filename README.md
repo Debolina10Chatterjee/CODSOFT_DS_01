@@ -26,16 +26,16 @@ To run the code for this project, you will need the following Python libraries:
 - NumPy
 - Scikit-learn
 
-You can install these libraries using pip:
-```
-pip install pandas numpy scikit-learn
-```
 
-## 📝 Usage
+
+## 📝 Usage & Settings 
+
 1. **Data Preprocessing**: Before building the model, it's essential to preprocess the data. This involves handling missing values, encoding categorical variables, and feature scaling if necessary.
 2. **Model Building**: Choose an appropriate machine learning algorithm (e.g., logistic regression, decision trees, random forests) and train the model using the preprocessed data.
 3. **Model Evaluation**: Evaluate the performance of the trained model using appropriate metrics such as accuracy, precision, recall, and F1-score.
 4. **Prediction**: Once the model is trained and evaluated, you can use it to make predictions on new data.
+5. 🚀 Clone the repository:
+https://github.com/Debolina10Chatterjee/PRODIGY_DS_01.git
 
 ## 📁 Files
 - **titanic.csv**: The dataset containing passenger information.
