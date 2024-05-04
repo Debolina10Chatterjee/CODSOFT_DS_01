@@ -35,8 +35,7 @@ To run the code for this project, you will need the following Python libraries:
 3. **Model Evaluation**: Evaluate the performance of the trained model using appropriate metrics such as accuracy, precision, recall, and F1-score.
 4. **Prediction**: Once the model is trained and evaluated, you can use it to make predictions on new data.
 5. 🚀 Clone the repository:
-https://github.com/Debolina10Chatterjee/PRODIGY_DS_01.git
-
+   https://github.com/Debolina10Chatterjee/CODSOFT_DS_01.git
 ## 📁 Files
 - **titanic.csv**: The dataset containing passenger information.
 - **titanic_prediction.ipynb**: Jupyter Notebook containing code for data preprocessing, model building, evaluation, and prediction.
