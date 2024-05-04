@@ -47,3 +47,9 @@ pip install pandas numpy scikit-learn
 
 ## 💡 Credits
 This project was inspired by the Kaggle competition "Titanic: Machine Learning from Disaster". The dataset and problem statement are courtesy of Kaggle.
+
+## 📬 Contact
+Questions or suggestions? Reach out to:
+- **DEBOLINA CHATTERJEE**
+- **Email:** debolinachatterjee1011@gmail.com (mailto:debolinachatterjee1011@gmail.com)
+
